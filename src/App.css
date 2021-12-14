@@ -152,6 +152,8 @@ input[type='number'] {
 
 @media (max-width: 320px) {
   .container {
-    width: 250px;
+    width: 160px;
+    height:100px;
   }
 }
+
